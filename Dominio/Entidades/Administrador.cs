@@ -14,9 +14,10 @@ namespace MinimalAPI.Dominio.Entidades
         public int Id { get; set; } = default!;
 
         [Required]
-        [StringLength(250)]
+        [StringLength(255)]
         public string Email { get; set; } = default!;
 
+        [Required]
         [StringLength(50)]
         public string Senha { get; set; } = default!;
 
