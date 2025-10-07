@@ -158,3 +158,8 @@ D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
 D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
 D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
 D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjetosGit\MinimalAPI\obj\Debug\net9.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
