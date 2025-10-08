@@ -7,7 +7,7 @@ namespace MinimalAPI.Dominio.ModelViews
 {
     public struct Home
     {
-        public string Mensagem { get => "Bem vindxs a API de veículos - Minimal API"; }
+        public string Mensagem { get => "Bem vindxs a API de veículos - Minimal API1"; }
         public string Doc { get => "/swagger"; }
     }
 }
