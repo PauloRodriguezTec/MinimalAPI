@@ -163,3 +163,4 @@ D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\ProjetosGit\MinimalAPI\obj\Debug\net9.0\MinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjetosGit\MinimalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
