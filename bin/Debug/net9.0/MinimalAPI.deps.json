@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "MinimalAPI/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.9",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.Design": "9.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
@@ -111,14 +111,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.1": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.9": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "8.0.1"
         },
         "runtime": {
           "lib/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "assemblyVersion": "9.0.1.0",
-            "fileVersion": "9.0.124.61009"
+            "assemblyVersion": "9.0.9.0",
+            "fileVersion": "9.0.925.42003"
           }
         }
       },
@@ -1166,12 +1166,12 @@
       "path": "k4os.hash.xxhash/1.0.8",
       "hashPath": "k4os.hash.xxhash.1.0.8.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.1": {
+    "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.9": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-R/ZG9llsAOn/E8WOtg+PyLCB599lxzaIGy/NbwV1xG+smkyBF4w5/AJXNDq6tVw7/qbqvd+4xLAdWQiiVj1DXw==",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/9.0.1",
-      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.9.0.1.nupkg.sha512"
+      "sha512": "sha512-U5gW2DS/yAE9X0Ko63/O2lNApAzI/jhx4IT1Th6W0RShKv6XAVVgLGN3zqnmcd6DtAnp5FYs+4HZrxsTl0anLA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/9.0.9",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
       "type": "package",
